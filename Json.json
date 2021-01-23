@@ -1,0 +1,307 @@
+{
+    "meta": {
+        "page": 1,
+        "resources_per_page": 10,
+        "total_resources": 11
+    },
+    "data": [
+        {
+            "type": "authors",
+            "id": "1",
+            "attributes": {
+                "name": "Jaquan Larson",
+                "birthplace": "Slovenia",
+                "date_of_birth": "1974-11-10",
+                "date_of_death": "2007-06-26"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "1"
+                        },
+                        {
+                            "type": "photos",
+                            "id": "2"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": [
+                        {
+                            "type": "books",
+                            "id": "6"
+                        },
+                        {
+                            "type": "books",
+                            "id": "13"
+                        },
+                        {
+                            "type": "books",
+                            "id": "19"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "self": "/authors/1"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "2",
+            "attributes": {
+                "name": "Dr. Abel Kohler",
+                "birthplace": "Portugal",
+                "date_of_birth": "1979-01-10",
+                "date_of_death": "1999-11-30"
+            },
+            "relationships": {
+                "photos": {
+                    "data": []
+                },
+                "books": {
+                    "data": [
+                        {
+                            "type": "books",
+                            "id": "31"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "self": "/authors/2"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "3",
+            "attributes": {
+                "name": "Lenora Schoen",
+                "birthplace": "Uganda",
+                "date_of_birth": "1973-02-22",
+                "date_of_death": "1995-05-13"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "3"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "/authors/3"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "4",
+            "attributes": {
+                "name": "Muriel Flatley",
+                "birthplace": "Costa Rica",
+                "date_of_birth": "1979-01-08",
+                "date_of_death": "1972-08-22"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "4"
+                        },
+                        {
+                            "type": "photos",
+                            "id": "5"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": [
+                        {
+                            "type": "books",
+                            "id": "32"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "self": "/authors/4"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "5",
+            "attributes": {
+                "name": "Brittany Tremblay PhD",
+                "birthplace": "British Virgin Islands",
+                "date_of_birth": "1988-02-26",
+                "date_of_death": "2007-06-21"
+            },
+            "relationships": {
+                "photos": {
+                    "data": []
+                },
+                "books": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "/authors/5"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "6",
+            "attributes": {
+                "name": "Miss Fatima Sporer",
+                "birthplace": "British Indian Ocean Territory (Chagos Archipelago)",
+                "date_of_birth": "2010-09-26",
+                "date_of_death": "1985-02-03"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "6"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": [
+                        {
+                            "type": "books",
+                            "id": "27"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "self": "/authors/6"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "7",
+            "attributes": {
+                "name": "Yasmeen Oberbrunner",
+                "birthplace": "Yemen",
+                "date_of_birth": "2010-06-04",
+                "date_of_death": "2009-05-19"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "7"
+                        },
+                        {
+                            "type": "photos",
+                            "id": "8"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": [
+                        {
+                            "type": "books",
+                            "id": "16"
+                        },
+                        {
+                            "type": "books",
+                            "id": "41"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "self": "/authors/7"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "8",
+            "attributes": {
+                "name": "Beau Connelly",
+                "birthplace": "Russian Federation",
+                "date_of_birth": "1997-10-06",
+                "date_of_death": "2008-08-26"
+            },
+            "relationships": {
+                "photos": {
+                    "data": []
+                },
+                "books": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "/authors/8"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "9",
+            "attributes": {
+                "name": "Gust Boyer",
+                "birthplace": "Djibouti",
+                "date_of_birth": "2019-11-22",
+                "date_of_death": "2013-11-25"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "9"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "/authors/9"
+            }
+        },
+        {
+            "type": "authors",
+            "id": "10",
+            "attributes": {
+                "name": "Dr. Tillman Harvey I",
+                "birthplace": "Lao People's Democratic Republic",
+                "date_of_birth": "2013-05-10",
+                "date_of_death": "1994-01-25"
+            },
+            "relationships": {
+                "photos": {
+                    "data": [
+                        {
+                            "type": "photos",
+                            "id": "10"
+                        },
+                        {
+                            "type": "photos",
+                            "id": "11"
+                        }
+                    ]
+                },
+                "books": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "/authors/10"
+            }
+        }
+    ]
+}
