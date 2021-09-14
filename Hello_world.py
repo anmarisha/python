@@ -28,7 +28,7 @@ elif op == "divide":
         result = n_float / d_float
 else: 
     print("operation invalid")
-    result = "huj"
+    result = "fig"
 
 print("hello world", n_float, op, d_float, result)
 
